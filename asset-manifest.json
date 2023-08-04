@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.3f95ff35.css",
-    "main.js": "/portfolio/static/js/main.63a6497e.js",
-    "static/media/portfolio-02.jpg": "/portfolio/static/media/portfolio-02.300086c867b7ae80b6a2.jpg",
-    "static/media/remixicon.svg?t=1590207869815": "/portfolio/static/media/remixicon.9cedd2150922ead84869.svg",
-    "static/media/portfolio-09.jpg": "/portfolio/static/media/portfolio-09.89f3ebba923e1ed50642.jpg",
-    "static/media/portfolio-08.jpg": "/portfolio/static/media/portfolio-08.3d2a857909055f821d23.jpg",
-    "static/media/portfolio-04.jpg": "/portfolio/static/media/portfolio-04.dd9e888659945a7d51c5.jpg",
-    "static/media/portfolio-07.jpg": "/portfolio/static/media/portfolio-07.4a348c04ce51b3510d47.jpg",
-    "static/media/issac.jpg": "/portfolio/static/media/issac.b043ebef92fa21c3a258.jpg",
-    "static/media/remixicon.eot?t=1590207869815": "/portfolio/static/media/remixicon.5cb99e6cba5a4619063f.eot",
-    "static/media/remixicon.ttf?t=1590207869815": "/portfolio/static/media/remixicon.f2616f597cf98f38d234.ttf",
-    "static/media/remixicon.woff?t=1590207869815": "/portfolio/static/media/remixicon.8d09fa11700ed63cf96e.woff",
-    "static/media/portfolio-03.jpg": "/portfolio/static/media/portfolio-03.9332fbc004cefc124196.jpg",
-    "static/media/remixicon.woff2?t=1590207869815": "/portfolio/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
-    "static/media/portfolio-01.jpg": "/portfolio/static/media/portfolio-01.098edb12bf7ad4e11477.jpg",
-    "static/media/portfolio-05.jpg": "/portfolio/static/media/portfolio-05.7ce611b80b8d8f296c3f.jpg",
-    "static/media/portfolio-06.jpg": "/portfolio/static/media/portfolio-06.91cc9f74307388b8d30f.jpg",
-    "index.html": "/portfolio/index.html",
-    "main.3f95ff35.css.map": "/portfolio/static/css/main.3f95ff35.css.map",
-    "main.63a6497e.js.map": "/portfolio/static/js/main.63a6497e.js.map"
+    "main.css": "/issac2001/Portfolio.git/static/css/main.75bb779c.css",
+    "main.js": "/issac2001/Portfolio.git/static/js/main.5d7ea03c.js",
+    "static/media/portfolio-02.jpg": "/issac2001/Portfolio.git/static/media/portfolio-02.300086c867b7ae80b6a2.jpg",
+    "static/media/remixicon.svg?t=1590207869815": "/issac2001/Portfolio.git/static/media/remixicon.9cedd2150922ead84869.svg",
+    "static/media/portfolio-09.jpg": "/issac2001/Portfolio.git/static/media/portfolio-09.89f3ebba923e1ed50642.jpg",
+    "static/media/portfolio-08.jpg": "/issac2001/Portfolio.git/static/media/portfolio-08.3d2a857909055f821d23.jpg",
+    "static/media/portfolio-04.jpg": "/issac2001/Portfolio.git/static/media/portfolio-04.dd9e888659945a7d51c5.jpg",
+    "static/media/portfolio-07.jpg": "/issac2001/Portfolio.git/static/media/portfolio-07.4a348c04ce51b3510d47.jpg",
+    "static/media/issac.jpg": "/issac2001/Portfolio.git/static/media/issac.b043ebef92fa21c3a258.jpg",
+    "static/media/remixicon.eot?t=1590207869815": "/issac2001/Portfolio.git/static/media/remixicon.5cb99e6cba5a4619063f.eot",
+    "static/media/remixicon.ttf?t=1590207869815": "/issac2001/Portfolio.git/static/media/remixicon.f2616f597cf98f38d234.ttf",
+    "static/media/remixicon.woff?t=1590207869815": "/issac2001/Portfolio.git/static/media/remixicon.8d09fa11700ed63cf96e.woff",
+    "static/media/portfolio-03.jpg": "/issac2001/Portfolio.git/static/media/portfolio-03.9332fbc004cefc124196.jpg",
+    "static/media/remixicon.woff2?t=1590207869815": "/issac2001/Portfolio.git/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
+    "static/media/portfolio-01.jpg": "/issac2001/Portfolio.git/static/media/portfolio-01.098edb12bf7ad4e11477.jpg",
+    "static/media/portfolio-05.jpg": "/issac2001/Portfolio.git/static/media/portfolio-05.7ce611b80b8d8f296c3f.jpg",
+    "static/media/portfolio-06.jpg": "/issac2001/Portfolio.git/static/media/portfolio-06.91cc9f74307388b8d30f.jpg",
+    "index.html": "/issac2001/Portfolio.git/index.html",
+    "main.75bb779c.css.map": "/issac2001/Portfolio.git/static/css/main.75bb779c.css.map",
+    "main.5d7ea03c.js.map": "/issac2001/Portfolio.git/static/js/main.5d7ea03c.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f95ff35.css",
-    "static/js/main.63a6497e.js"
+    "static/css/main.75bb779c.css",
+    "static/js/main.5d7ea03c.js"
   ]
 }
